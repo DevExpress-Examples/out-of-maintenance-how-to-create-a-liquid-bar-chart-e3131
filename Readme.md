@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebApplication2/Default.aspx) (VB: [Default.aspx](./VB/WebApplication2/Default.aspx))
+<!-- default file list end -->
 # How to create a Liquid Bar chart
 
 
